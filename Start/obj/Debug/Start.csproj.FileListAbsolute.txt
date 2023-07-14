@@ -1,0 +1,19 @@
+D:\vadymkon\Проги\SkibidiDop\Start\obj\Debug\Start.Form1.resources
+D:\vadymkon\Проги\SkibidiDop\Start\obj\Debug\Start.Properties.Resources.resources
+D:\vadymkon\Проги\SkibidiDop\Start\obj\Debug\Start.csproj.GenerateResource.cache
+D:\vadymkon\Проги\SkibidiDop\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+D:\vadymkon\Проги\SkibidiDop\Start\bin\Debug\Windows Graph Driver.exe.config
+D:\vadymkon\Проги\SkibidiDop\Start\bin\Debug\Windows Graph Driver.exe
+D:\vadymkon\Проги\SkibidiDop\Start\bin\Debug\Windows Graph Driver.pdb
+D:\vadymkon\Проги\SkibidiDop\Start\obj\Debug\Windows Graph Driver.exe
+D:\vadymkon\Проги\SkibidiDop\Start\obj\Debug\Windows Graph Driver.pdb
+D:\vadymkon\Kaiters\SkibidiDop\Start\bin\Debug\Windows Graph Driver.exe.config
+D:\vadymkon\Kaiters\SkibidiDop\Start\bin\Debug\Windows Graph Driver.exe
+D:\vadymkon\Kaiters\SkibidiDop\Start\bin\Debug\Windows Graph Driver.pdb
+D:\vadymkon\Kaiters\SkibidiDop\Start\obj\Debug\Start.csproj.AssemblyReference.cache
+D:\vadymkon\Kaiters\SkibidiDop\Start\obj\Debug\Start.Form1.resources
+D:\vadymkon\Kaiters\SkibidiDop\Start\obj\Debug\Start.Properties.Resources.resources
+D:\vadymkon\Kaiters\SkibidiDop\Start\obj\Debug\Start.csproj.GenerateResource.cache
+D:\vadymkon\Kaiters\SkibidiDop\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+D:\vadymkon\Kaiters\SkibidiDop\Start\obj\Debug\Windows Graph Driver.exe
+D:\vadymkon\Kaiters\SkibidiDop\Start\obj\Debug\Windows Graph Driver.pdb
